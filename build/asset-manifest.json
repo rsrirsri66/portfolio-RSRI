@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.bc4e7919.js",
+    "static/media/plots2.png": "/static/media/plots2.4e338441d9c90b3ec2f3.png",
+    "static/media/Nexemy.png": "/static/media/Nexemy.2fa05a2b515df98ca9d9.png",
+    "static/media/Screenshot 2024-03-30 214006.png": "/static/media/Screenshot 2024-03-30 214006.7498e8a7b7b54a45031b.png",
+    "static/media/Ecom.png": "/static/media/Ecom.d9e71b0c4789754cc18f.png",
+    "static/media/sdtiles.png": "/static/media/sdtiles.ba2ee6c1091d5b2a157f.png",
+    "static/media/nexemyadmin.png": "/static/media/nexemyadmin.6ce90689e98130a3bfe3.png",
+    "static/media/Collegetraining.png": "/static/media/Collegetraining.f5b7d6174befcdef2e00.png",
+    "static/media/Collegetrainee.png": "/static/media/Collegetrainee.f24eb3d5bf2e07ab0a99.png",
+    "static/media/S 6776b  .jpg": "/static/media/S 6776b  .6f33aec936739883835c.jpg",
+    "static/media/Screenshot 2024-03-30 194221.png": "/static/media/Screenshot 2024-03-30 194221.738703b6cc6a8f8a13ba.png",
+    "static/media/nexgen-favicon.png": "/static/media/nexgen-favicon.a7c26d5c42a184606228.png",
+    "static/media/spic.png": "/static/media/spic.b0681d0fc6ad3fcc48d7.png",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.bc4e7919.js.map": "/static/js/main.bc4e7919.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.bc4e7919.js"
+  ]
+}
